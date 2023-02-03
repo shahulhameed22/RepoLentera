@@ -1,0 +1,41 @@
+.cust_button{
+    background-color: rgb(120, 2, 73);
+    width: 50%;
+}
+.cust_button2{
+    background-color: rgb(120, 2, 73);
+    width: 20%;
+}
+.card{
+    border: 1px solid rgb(120, 2, 73);
+}
+.cust_button1{
+    background-color: rgb(120, 2, 73);
+    width: 100%;
+}
+.main{
+    background-image: url("./download.jpeg");
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.cust{
+    color: rgb(120, 2, 73);
+    font-size: 30px;
+    text-align: center;
+}
+input{
+    border: none;
+    outline: none;
+    border-right: 1px solid black;
+    width: 30%;
+}
+.custonradi{
+    border-radius: 20px;
+}
+.cusdrop{
+    color: rgb(120, 2, 73);
+    border: 1px solid rgb(120, 2, 73);
+    text-decoration: none;
+}
